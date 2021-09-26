@@ -2,7 +2,7 @@
   "name": "library_5/library_5",
   "type": "library",
   "source": {
-    "url": "git://github.com/others/exercise_1/library_2.git",
+    "url": "git://github.com/others/exercise_1/library_5.git",
     "type": "git",
     "reference": "master"
   }
