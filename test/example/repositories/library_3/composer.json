@@ -1,0 +1,9 @@
+{
+  "name": "library_3/library_3",
+  "type": "library",
+  "source": {
+    "url": "git://github.com/others/exercise_1/library_3.git",
+    "type": "git",
+    "reference": "master"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "library_2/library_2",
+  "type": "library",
+  "source": {
+    "url": "git://github.com/ddeaustria/exercise_1/library_2.git",
+    "type": "git",
+    "reference": "master"
+  },
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "library_4/library_4",
+        "version": "master",
+        "source": {
+          "url": "git://github.com/ddeaustria/exercise_1/library_4.git",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "library_5/library_5",
+        "version": "master",
+        "source": {
+          "url": "git://github.com/others/exercise_1/library_5.git",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    }
+  ]
+}

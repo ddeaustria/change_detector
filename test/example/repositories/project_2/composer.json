@@ -1,0 +1,30 @@
+{
+  "name": "project_2/project_2",
+  "type": "project",
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "library_2/library_2",
+        "version": "master",
+        "source": {
+          "url": "git://github.com/ddeaustria/exercise_1/library_1.git",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "library_6/library_6",
+        "version": "master",
+        "source": {
+          "url": "git://github.com/others/exercise_1/library_6.git",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    }
+  ]
+}
